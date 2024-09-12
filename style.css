@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+#container {
+    display: inline-flex;
+    display: flex;
+    justify-content: flex-end;
+    gap: 40px;
+    padding-bottom: 20px;
+}
+#conth1 {
+    padding-top: 20px;
+}
+#navbar {
+    display: inline-flex;
+}
+#section2 {
+    display: flex;
+}
+#section2 h1 {
+    display: flex;
+    align-items: flex-start;
+}
+#section1_content h1 {
+    padding: 20px;
+    align-items: center;
+}
+#section1_content p {
+    padding-left: 50px;
+    padding-top: 100px;
+    line-height: 20px;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+#section3_content {
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    line-height: 40px; 
+}
+#menu  {
+    padding: 40px;
+}
+#section3_content p {
+    padding-left: 30px;
+}
+#contact a{
+    display: flex;
+    gap: 20px;
+}
